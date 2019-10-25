@@ -1,0 +1,6 @@
+ahmad 10
+osama 9
+basma 8
+habiba 6
+abuzaid 5
+youssef 3
