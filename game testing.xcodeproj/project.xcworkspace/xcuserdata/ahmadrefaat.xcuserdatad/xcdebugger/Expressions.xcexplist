@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "users::createAccount(sf::Event&amp;, int&amp;, sf::RenderWindow&amp;, sf::Time, sf::Clock&amp;, sf::RectangleShape):users.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "Password">
+            </PersistentString>
+            <PersistentString
+               value = "user">
+            </PersistentString>
+            <PersistentString
+               value = "userName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "game::updatelvl(int):Game.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "cols">
+            </PersistentString>
+            <PersistentString
+               value = "array[j][i]">
+            </PersistentString>
+            <PersistentString
+               value = "rows">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "users::login(sf::Event&amp;, int&amp;, sf::RenderWindow&amp;, sf::Time, sf::Clock&amp;, sf::RectangleShape):users.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "flag">
+            </PersistentString>
+            <PersistentString
+               value = "userName">
+            </PersistentString>
+            <PersistentString
+               value = "pass">
+            </PersistentString>
+            <PersistentString
+               value = "Password">
+            </PersistentString>
+            <PersistentString
+               value = "user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "game::intlGame():Game.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "j">
+            </PersistentString>
+            <PersistentString
+               value = "array[i][j]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "highScores::addUser(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, int, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;):highscores.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "list.at(i)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
